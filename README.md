@@ -40,14 +40,14 @@
 
 ### about me
 
-bay area kid. raised in chapala, jalisco. back in the US for stanford — where i study how people and technology shape each other.
+bay area kid. raised in chapala, jalisco. back in the US for stanford
 
-i build at the intersection of **HCI, social impact, and product** — from amazon's last-mile delivery infrastructure to an english-learning program still running at mission high school, sf.
+i build at the intersection of **HCI, social impact, and product**
 
 ```
 currently → SDE intern @ Amazon (summer 2026)
 studying  → Symbolic Systems (HCI) @ Stanford
-open to   → new grad roles, summer 2027
+open to   → intern roles, summer 2027
 ```
 
 <br/>
@@ -61,14 +61,6 @@ open to   → new grad roles, summer 2027
 | [**portfolio**](https://github.com/gilxsilva/portfolio)                 | my personal site — next.js, typescript, too many commits at 2am                                                         |
 | [**gem-cs278**](https://github.com/gilxsilva/gem-cs278)                 | social map for discovering meaningful places through people you trust                                                   |
 | [**hackharvard-2025**](https://github.com/gilxsilva/hackharvard-2025)   | chrona — all-in-one academic dashboard, built at hack harvard                                                           |
-
-<br/>
-
-### a few things i believe
-
-→ technology is only as good as the people it actually reaches  
-→ the best products come from listening first, building second  
-→ two languages make you see the world differently — use that  
 
 <br/>
 
