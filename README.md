@@ -7,8 +7,6 @@
 
 <div align="center">
 
-<br/>
-
 <!-- Name block -->
 <p><em>ingeniero y diseñador.</em></p>
 
@@ -48,8 +46,6 @@ studying  → Symbolic Systems (HCI) @ Stanford
 open to   → intern roles, summer 2027
 ```
 
-<br/>
-
 ### fav repos ✦
 
 | repo                                                                    | what it is                                                                                                              |
@@ -58,9 +54,7 @@ open to   → intern roles, summer 2027
 | [**finding-our-voice**](https://github.com/gilxsilva/finding-our-voice) | bilingual website for immigrant youth. co-founded the program with 826 valencia at mission high school, sf. $10k grant. |
 | [**portfolio**](https://github.com/gilxsilva/portfolio)                 | my personal site: next.js, typescript, too many commits at 2am                                                          |
 | [**gem-cs278**](https://github.com/gilxsilva/gem-cs278)                 | social map for discovering meaningful places through people you trust                                                   |
-| [**hackharvard-2025**](https://github.com/gilxsilva/hackharvard-2025)   | chrona: all-in-one academic dashboard, built at hack harvard                                                           |
-
-<br/>
+| [**hackharvard-2025**](https://github.com/gilxsilva/hackharvard-2025)   | chrona: all-in-one academic dashboard, built at hack harvard                                                            |
 
 <div align="center">
 <sub>© Gil Silva · <a href="mailto:gscgilbertosilva@gmail.com">gscgilbertosilva@gmail.com</a> · available summer 2027</sub>
