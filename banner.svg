@@ -1,0 +1,42 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#F5F5F7"/>
+
+  <!-- subtitle -->
+  <text x="72" y="106"
+        font-family="-apple-system, 'SF Pro Display', 'Helvetica Neue', sans-serif"
+        font-size="20" font-style="italic" font-weight="300"
+        fill="#6E6E73" letter-spacing="-0.3">ingeniero y diseñador.</text>
+
+  <!-- name -->
+  <text x="68" y="178"
+        font-family="-apple-system, 'SF Pro Display', 'Helvetica Neue', sans-serif"
+        font-size="72" font-weight="700"
+        fill="#1D1D1F" letter-spacing="-2">Gil Silva</text>
+
+  <!-- tagline -->
+  <text x="72" y="260"
+        font-family="-apple-system, 'SF Pro Display', 'Helvetica Neue', sans-serif"
+        font-size="13" font-weight="400"
+        fill="#6E6E73" letter-spacing="-0.1">engineer &amp; designer building technology that empowers people.</text>
+
+  <!-- pill: Stanford -->
+  <rect x="762" y="78" width="116" height="36" rx="18" fill="#F2E8E8"/>
+  <text x="820" y="101"
+        font-family="-apple-system, 'SF Pro Display', 'Helvetica Neue', sans-serif"
+        font-size="13" font-weight="500" fill="#6B1A1A"
+        text-anchor="middle">Stanford</text>
+
+  <!-- pill: 3× Amazon -->
+  <rect x="912" y="128" width="132" height="36" rx="18" fill="#FFF0E0"/>
+  <text x="978" y="151"
+        font-family="-apple-system, 'SF Pro Display', 'Helvetica Neue', sans-serif"
+        font-size="13" font-weight="500" fill="#8A3A00"
+        text-anchor="middle">3× Amazon</text>
+
+  <!-- pill: SF · Chapala -->
+  <rect x="808" y="178" width="152" height="36" rx="18" fill="#E8EDF5"/>
+  <text x="884" y="201"
+        font-family="-apple-system, 'SF Pro Display', 'Helvetica Neue', sans-serif"
+        font-size="13" font-weight="500" fill="#1A3055"
+        text-anchor="middle">SF · Chapala</text>
+</svg>

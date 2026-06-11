@@ -7,20 +7,7 @@
 
 <div align="center">
 
-<!-- Name block -->
-<p><em>ingeniero y diseñador.</em></p>
-
-# Gil Silva
-
-<p>
-  <img src="https://img.shields.io/badge/Stanford-Symbolic_Systems_%2F_HCI-8C1515?style=flat-square&labelColor=2E2D29&color=8C1515" alt="Stanford"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Amazon-3×_SDE_Intern-FF9900?style=flat-square&labelColor=2E2D29&color=FF9900" alt="Amazon"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/SF_·_Chapala_·_Stanford-📍-4A4A4A?style=flat-square&labelColor=2E2D29&color=4A4A4A" alt="Location"/>
-</p>
-
-<p><strong>Engineer and designer building technology that empowers people.</strong></p>
+<img src="banner.svg" alt="Gil Silva" width="100%"/>
 
 <p>
   <a href="https://portfolio-one-dun-7bqa00r7vk.vercel.app">portfolio ↗</a>
@@ -29,8 +16,6 @@
   &nbsp;·&nbsp;
   <a href="https://instagram.com/gilxsilva">@gilxsilva</a>
 </p>
-
-<br/>
 
 </div>
 
