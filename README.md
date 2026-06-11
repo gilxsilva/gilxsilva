@@ -1,6 +1,6 @@
 <!--
   ┌─────────────────────────────────────────────┐
-  │  Gil Silva — GitHub Profile README           │
+  │  Gil Silva · GitHub Profile README           │
   │  github.com/gilxsilva                        │
   └─────────────────────────────────────────────┘
 -->
@@ -56,11 +56,11 @@ open to   → intern roles, summer 2027
 
 | repo                                                                    | what it is                                                                                                              |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [**kyro-app**](https://github.com/gilxsilva/kyro-app)                   | emotional scheduling app — plan by energy, not just time. best concept + most novel product, stanford cs147 expo        |
+| [**kyro-app**](https://github.com/gilxsilva/kyro-app)                   | emotional scheduling app: plan by energy, not just time. best concept + most novel product, stanford cs147 expo         |
 | [**finding-our-voice**](https://github.com/gilxsilva/finding-our-voice) | bilingual website for immigrant youth. co-founded the program with 826 valencia at mission high school, sf. $10k grant. |
-| [**portfolio**](https://github.com/gilxsilva/portfolio)                 | my personal site — next.js, typescript, too many commits at 2am                                                         |
+| [**portfolio**](https://github.com/gilxsilva/portfolio)                 | my personal site: next.js, typescript, too many commits at 2am                                                          |
 | [**gem-cs278**](https://github.com/gilxsilva/gem-cs278)                 | social map for discovering meaningful places through people you trust                                                   |
-| [**hackharvard-2025**](https://github.com/gilxsilva/hackharvard-2025)   | chrona — all-in-one academic dashboard, built at hack harvard                                                           |
+| [**hackharvard-2025**](https://github.com/gilxsilva/hackharvard-2025)   | chrona: all-in-one academic dashboard, built at hack harvard                                                           |
 
 <br/>
 
