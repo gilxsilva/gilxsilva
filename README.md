@@ -25,7 +25,7 @@
 <p>
   <a href="https://portfolio-one-dun-7bqa00r7vk.vercel.app">portfolio ↗</a>
   &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/gilsilvaa">linkedin ↗</a>
+  <a href="https://www.linkedin.com/in/gilxsilva/">linkedin ↗</a>
   &nbsp;·&nbsp;
   <a href="https://instagram.com/gilxsilva">@gilxsilva</a>
 </p>
