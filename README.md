@@ -36,8 +36,6 @@
 
 </div>
 
-<br/>
-
 ### about me
 
 bay area kid. raised in chapala, jalisco. back in the US for stanford
