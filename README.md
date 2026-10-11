@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<a href="https://portfolio-one-dun-7bqa00r7vk.vercel.app"><img src="banner.svg?v=2" alt="Gil Silva, Ingeniero y Diseñador, Vol. 1. Software engineer and designer." width="100%"/></a>
+<a href="https://portfolio-one-dun-7bqa00r7vk.vercel.app"><img src="banner.svg" alt="Gil Silva, Ingeniero y Diseñador, Vol. 1. Software engineer and designer." width="100%"/></a>
 
 <p>
   <a href="https://portfolio-one-dun-7bqa00r7vk.vercel.app"><b>Listen to the full album ↗</b></a>
