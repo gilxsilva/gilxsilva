@@ -8,53 +8,52 @@
 <a href="https://portfolio-one-dun-7bqa00r7vk.vercel.app"><img src="banner.svg" alt="Gil Silva, Ingeniero y Diseñador, Vol. 1. Software engineer and designer." width="100%"/></a>
 
 <p>
-  <a href="https://portfolio-one-dun-7bqa00r7vk.vercel.app"><b>listen to the full album ↗</b></a>
+  <a href="https://portfolio-one-dun-7bqa00r7vk.vercel.app"><b>Listen to the full album ↗</b></a>
   &nbsp;·&nbsp;
-  <a href="https://portfolio-one-dun-7bqa00r7vk.vercel.app/Gil_Silva_Resume.pdf">résumé ↗</a>
+  <a href="https://portfolio-one-dun-7bqa00r7vk.vercel.app/Gil_Silva_Resume.pdf">Résumé ↗</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/gilxsilva/">linkedin ↗</a>
+  <a href="https://www.linkedin.com/in/gilxsilva/">LinkedIn ↗</a>
   &nbsp;·&nbsp;
   <a href="https://instagram.com/gilxsilva">@gilxsilva</a>
 </p>
 
 </div>
 
-### liner notes
+### Liner notes
 
-born in sf, raised in chapala, jalisco, back in the us for stanford.
-i build at the intersection of **hci, social impact, and product**: engineering with people, not just for them.
+Born in SF, raised in Chapala, Jalisco, back in the US for Stanford. I build at the intersection of **HCI, social impact, and product**: engineering with people, not just for them.
 
 ```
-now playing    → senior year @ stanford · symbolic systems (hci)
-last session   → sde intern @ amazon scot (summer 2026)
-open to        → swe + design roles starting summer 2027
-off the record → rugby · guitar · songwriting
+Now playing    → Senior year @ Stanford · Symbolic Systems (HCI)
+Last session   → SDE intern @ Amazon SCOT (summer 2026)
+Open to        → SWE + design roles starting summer 2027
+Off the record → Rugby · guitar · songwriting
 ```
 
-### side a · work
+### Side A · Work
 
-| #   | track | liner notes | year |
+| #   | Track | Liner notes | Year |
 | --- | ----- | ----------- | ---- |
-| 01  | **sde intern** · amazon scot | serverless aws pipeline + bedrock llm agent surfacing the 3.6m vendor edi failures that never reached vendors | 2026 |
-| 02  | **full-stack swe intern** · collegeplanai | primary engineer at a 3-person startup. ai college essay app used by hundreds of students. 🏆 acquired by new oriental | 2025 |
-| 03  | **sde intern** · amazon last mile stops | self-service workflow for delivery-stop investigations, cutting 8+ hrs/week of engineering toil | 2025 |
-| 04  | **sde intern** · amazon last mile flex | location-preference signal for flex's assignment optimizer: java distance matrix feeding a python integer-program solver | 2024 |
+| 01  | **SDE intern** · Amazon SCOT | Serverless AWS pipeline + Bedrock LLM agent surfacing the 3.6M vendor EDI failures that never reached vendors | 2026 |
+| 02  | **Full-stack SWE intern** · CollegePlanAI | Primary engineer at a 3-person startup. AI college essay app used by hundreds of students. 🏆 Acquired by New Oriental | 2025 |
+| 03  | **SDE intern** · Amazon Last Mile Stops | Self-service workflow for delivery-stop investigations, cutting 8+ hrs/week of engineering toil | 2025 |
+| 04  | **SDE intern** · Amazon Last Mile Flex | Location-preference signal for Flex's assignment optimizer: a Java distance matrix feeding a Python integer-program solver | 2024 |
 
-### side b · projects
+### Side B · Projects
 
-| #   | track | liner notes |
+| #   | Track | Liner notes |
 | --- | ----- | ----------- |
-| 01  | [**kyro-app**](https://github.com/gilxsilva/kyro-app) · [site ↗](https://web.stanford.edu/class/cs147/projects/DesignforMentalWellbeing/Kyro/) | emotional scheduling app: plan by energy, not just time. 🏆 top 6 of 23, best concept + most novel product at the stanford cs147 expo |
-| 02  | [**gem-cs278**](https://github.com/gilxsilva/gem-cs278) | social map for discovering meaningful places through people you trust. react native, expo, supabase |
-| 03  | [**finding-our-voice**](https://github.com/gilxsilva/finding-our-voice) · [site ↗](https://gilxsilva.github.io/finding-our-voice/) | bilingual site for immigrant youth. co-founded the english-learning program at 826 valencia, sf. 🏆 $10k grant |
-| 04  | [**ols-advocacy-hub**](https://github.com/gilxsilva/ols-advocacy-hub) · [site ↗](https://gilxsilva.github.io/ols-advocacy-hub/) | interactive look at operation lone star's financial and social impact, built from a stanford border-law course |
-| 05  | [**hackharvard-2025**](https://github.com/gilxsilva/hackharvard-2025) | chrona: all-in-one academic dashboard, built at hackharvard |
-| 06  | [**portfolio**](https://github.com/gilxsilva/portfolio) | this album as a website: next.js, typescript, tailwind, too many commits at 2am |
+| 01  | [**kyro-app**](https://github.com/gilxsilva/kyro-app) · [site ↗](https://web.stanford.edu/class/cs147/projects/DesignforMentalWellbeing/Kyro/) | Emotional scheduling app: plan by energy, not just time. 🏆 Top 6 of 23, Best Concept + Most Novel Product at the Stanford CS147 expo |
+| 02  | [**gem-cs278**](https://github.com/gilxsilva/gem-cs278) | Social map for discovering meaningful places through people you trust. React Native, Expo, Supabase |
+| 03  | [**finding-our-voice**](https://github.com/gilxsilva/finding-our-voice) · [site ↗](https://gilxsilva.github.io/finding-our-voice/) | Bilingual site for immigrant youth. Co-founded the English-learning program at 826 Valencia, SF. 🏆 $10K grant |
+| 04  | [**ols-advocacy-hub**](https://github.com/gilxsilva/ols-advocacy-hub) · [site ↗](https://gilxsilva.github.io/ols-advocacy-hub/) | Interactive look at Operation Lone Star's financial and social impact, built from a Stanford border-law course |
+| 05  | [**hackharvard-2025**](https://github.com/gilxsilva/hackharvard-2025) | Chrona: an all-in-one academic dashboard, built at HackHarvard |
+| 06  | [**portfolio**](https://github.com/gilxsilva/portfolio) | This album as a website: Next.js, TypeScript, Tailwind, and too many commits at 2am |
 
-### on repeat
+### On repeat
 
-🎧 **she's electric** · oasis &nbsp;·&nbsp; more on [/now ↗](https://portfolio-one-dun-7bqa00r7vk.vercel.app/now)
+🎧 **She's Electric** · Oasis &nbsp;·&nbsp; More on [/now ↗](https://portfolio-one-dun-7bqa00r7vk.vercel.app/now)
 
 <div align="center">
-<sub>encore · hablemos · <a href="mailto:gscgilbertosilva@gmail.com">gscgilbertosilva@gmail.com</a> · available summer 2027</sub>
+<sub>Encore · Hablemos · <a href="mailto:gscgilbertosilva@gmail.com">gscgilbertosilva@gmail.com</a> · Available summer 2027</sub>
 </div>
