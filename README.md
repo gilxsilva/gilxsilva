@@ -33,12 +33,12 @@ off the record → rugby · guitar · songwriting
 
 ### side a · work
 
-| #   | track                                                                | year |
-| --- | -------------------------------------------------------------------- | ---- |
-| 01  | **sde intern** · amazon supply chain optimization technologies       | 2026 |
-| 02  | **full-stack swe intern** · collegeplanai _(acquired by new oriental)_ | 2025 |
-| 03  | **sde intern** · amazon last mile stops                              | 2025 |
-| 04  | **sde intern** · amazon last mile flex                               | 2024 |
+| #   | track | liner notes | year |
+| --- | ----- | ----------- | ---- |
+| 01  | **sde intern** · amazon scot | serverless aws pipeline + bedrock llm agent surfacing the 3.6m vendor edi failures that never reached vendors | 2026 |
+| 02  | **full-stack swe intern** · collegeplanai | primary engineer at a 3-person startup. ai college essay app used by hundreds of students. 🏆 acquired by new oriental | 2025 |
+| 03  | **sde intern** · amazon last mile stops | self-service workflow for delivery-stop investigations, cutting 8+ hrs/week of engineering toil | 2025 |
+| 04  | **sde intern** · amazon last mile flex | location-preference signal for flex's assignment optimizer: java distance matrix feeding a python integer-program solver | 2024 |
 
 ### side b · projects
 
