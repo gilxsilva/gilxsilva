@@ -24,9 +24,10 @@
 Born in SF, raised in Chapala, Jalisco, back in the US for Stanford. I build at the intersection of **HCI, social impact, and product**: engineering with people, not just for them.
 
 ```
-Now playing    → Senior year @ Stanford · Symbolic Systems (HCI)
+Now playing    → Stanford · Symbolic Systems (HCI)
+Graduating     → December 2027
 Last session   → SDE intern @ Amazon SCOT (summer 2026)
-Open to        → SWE + design roles starting summer 2027
+Open to        → Summer 2027 internships · full-time roles from 2028
 Off the record → Rugby · guitar · songwriting
 ```
 
@@ -55,5 +56,5 @@ Off the record → Rugby · guitar · songwriting
 🎧 **She's Electric** · Oasis &nbsp;·&nbsp; More on [/now ↗](https://portfolio-one-dun-7bqa00r7vk.vercel.app/now)
 
 <div align="center">
-<sub>Encore · Hablemos · <a href="mailto:gscgilbertosilva@gmail.com">gscgilbertosilva@gmail.com</a> · Available summer 2027</sub>
+<sub>Encore · Hablemos · <a href="mailto:gscgilbertosilva@gmail.com">gscgilbertosilva@gmail.com</a> · Graduating Dec 2027 · Open to summer 2027 internships + full-time roles from 2028</sub>
 </div>
