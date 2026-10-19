@@ -50,6 +50,8 @@ Off the record → Rugby · guitar · songwriting
 | 04  | [**ols-advocacy-hub**](https://github.com/gilxsilva/ols-advocacy-hub) · [site ↗](https://gilxsilva.github.io/ols-advocacy-hub/) | Interactive look at Operation Lone Star's financial and social impact, built from a Stanford border-law course |
 | 05  | [**hackharvard-2025**](https://github.com/gilxsilva/hackharvard-2025) | Chrona: an all-in-one academic dashboard, built at HackHarvard |
 | 06  | [**portfolio**](https://github.com/gilxsilva/portfolio) | This album as a website: Next.js, TypeScript, Tailwind, and too many commits at 2am |
+| 07  | [**sone**](https://github.com/gilxsilva/sone) · [site ↗](https://sone-tau.vercel.app/) | Bilingual dream exploration with illustrated symbols, sourced associations, and reflective prompts |
+| 08  | [**still-here**](https://github.com/gilxsilva/still-here) · [site ↗](https://still-here-theta-coral.vercel.app/) | What are the odds I die tomorrow? A small probability project with the math explained |
 
 ### On repeat
 
