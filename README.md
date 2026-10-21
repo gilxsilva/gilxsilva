@@ -46,7 +46,7 @@ Off the record → Rugby · guitar · songwriting
 | --- | ----- | ----------- |
 | 01  | [**kyro-app**](https://github.com/gilxsilva/kyro-app) · [site ↗](https://web.stanford.edu/class/cs147/projects/DesignforMentalWellbeing/Kyro/) | Emotional scheduling app: plan by energy, not just time. 🏆 Top 6 of 23, Best Concept + Most Novel Product at the Stanford CS147 expo |
 | 02  | [**gem-cs278**](https://github.com/gilxsilva/gem-cs278) | Social map for discovering meaningful places through people you trust. React Native, Expo, Supabase |
-| 03  | [**finding-our-voice**](https://github.com/gilxsilva/finding-our-voice) · [site ↗](https://gilxsilva.github.io/finding-our-voice/) | Bilingual site for immigrant youth. Co-founded the English-learning program at 826 Valencia, SF. 🏆 $10K grant |
+| 03  | [**finding-our-voice**](https://github.com/gilxsilva/finding-our-voice) · [site ↗](https://finding-our-voice.vercel.app/) · [Playground ↗](https://finding-our-voice.vercel.app/playground.html) | Bilingual nonprofit site + 8 interactive English-learning activities for newcomer teens. Co-founded the program with 826 Valencia, SF. 🏆 $10K grant |
 | 04  | [**ols-advocacy-hub**](https://github.com/gilxsilva/ols-advocacy-hub) · [site ↗](https://gilxsilva.github.io/ols-advocacy-hub/) | Interactive look at Operation Lone Star's financial and social impact, built from a Stanford border-law course |
 | 05  | [**hackharvard-2025**](https://github.com/gilxsilva/hackharvard-2025) | Chrona: an all-in-one academic dashboard, built at HackHarvard |
 | 06  | [**portfolio**](https://github.com/gilxsilva/portfolio) · [site ↗](https://portfolio-one-dun-7bqa00r7vk.vercel.app/) | This album as a website: Next.js, TypeScript, Tailwind, and too many commits at 2am |
